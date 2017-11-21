@@ -121,6 +121,7 @@
 						popupCloserText: '',
 						popupLoaderText: '',
 						selector: '.work-item a.image',
+                        selector: '.work-item a.iframe',
 						usePopupCaption: true,
 						usePopupDefaultStyling: false,
 						usePopupEasyClose: false,
